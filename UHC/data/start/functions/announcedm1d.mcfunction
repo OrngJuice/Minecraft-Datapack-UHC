@@ -1,0 +1,1 @@
+tellraw @a {"text": "10 minutes remaining!","color": "gold"}
